@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Myongji University <br> Information and Communication Engineering</p>
+<p align="left">🎓Myongji University <br> Information and Communication Engineering</p>
 
 ###
 
@@ -35,14 +35,16 @@
 <p align="left"></p>
 
 ###
-## contact Me
+
+## contact me 
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/j_bong_j?igsh=MTVhc3R6b3lwYTQ5bQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
-
 
 
 
